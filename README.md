@@ -44,7 +44,7 @@
 
 ![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge)
 
-![BLoC](https://img.shields.io/badge/BLoC-1976D2?style=for-the-badge)
+
 
 ---
 
